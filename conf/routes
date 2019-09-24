@@ -1,0 +1,7 @@
+## Health Check
+GET           /api/ping               controllers.PingController.ping
+POST          /api/task               controllers.TaskController.create()
+GET           /api/task/:id           controllers.TaskController.getOne(id)
+GET           /api/task               controllers.TaskController.getAll()
+DELETE        /api/task/:id           controllers.TaskController.delete(id)
+PUT           /api/task/:id           controllers.TaskController.update(id)
