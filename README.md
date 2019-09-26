@@ -1,4 +1,4 @@
-# - Task Service Scala Simple
+# Task Service Scala Simple
 
 ### What does this project do
 Todo service provide API for guid for create Simple Rest API with Play Framework and MongoDB.
